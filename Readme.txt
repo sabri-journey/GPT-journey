@@ -1,1 +1,0 @@
-Hi so i'm sabri i wanted to share a big step in my gpt_journey in this upload you will find a code that i created in order to replicate gpt 1 i also built my own tokenizer that is similar to gpt4 tokenizer and i trained myt data using Shakespeare writings i hope u find my work useful and i'd like to thank Andrej Karpathy for his rich and useful videos about neural network.
